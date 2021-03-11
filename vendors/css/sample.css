@@ -15,7 +15,7 @@ header {
 }
 
 footer {
-  background-color: navy;
+  background-color: #2c3d4f;
   height: 100px;
   color: white;
   text-align: center;
@@ -64,6 +64,7 @@ header ul:after {
 }
 /* ここから */
 .function {
+  background-color: #d3d3d3;
 }
 .function-images {
   height: 400px;
